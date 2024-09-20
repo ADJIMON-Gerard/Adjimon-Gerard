@@ -3,15 +3,15 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ### 🔧 À propos de moi :
-- 🎓 Technicien réseau et système | Développeur web | Cybersécurité 
+- 🎓 Technicien réseau et système |Maintenance Informatique | Cybersécurité 
 - 💼 Actuellement à la recherche d'opportunités professionnelles. 
 - 💻 Passionné par l'innovation technologique, les systèmes informatiques et le développement web. 
 - 🎯 Expertise : CCNA, Windows Server, Linux, Firewalls, WordPress, maintenance informatique.
 
 ### 🌍 Mes liens :
-- 💼 [LinkedIn](https://www.linkedin.com/in/tonnom)  
-- 🌐 [Portfolio](https://tonportfolio.com) 
-- 📫 [Email](mailto:tonemail@example.com) 
+- 💼 [LinkedIn](www.linkedin.com/in/gerard-adjimon-4374872a4)  
+- 🌐 [Site Web](dev-adj-ger.pantheonsite.io) 
+- 📫 [Email](adjgerard1@gmail.com) 
 
 ### 🔥 Compétences Techniques :
 - **Langages de Programmation :** 
@@ -25,10 +25,14 @@
     
 - **Technologies Réseau :**
     - ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+    - ![MikroTik](https://img.shields.io/badge/MikroTik-EA1D2C?style=for-the-badge&logo=mikrotik&logoColor=white)
+    - VLAN, OSPF, DHCP, DNS, EIGRP,
+      
+- **Security :**
     - ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-    - ![pfSense](https://img.shields.io/badge/pfSense-003355?style=for-the-badge&logo=pfsense&logoColor=white)
+    - ![pfSense](https://img.shields.io/badge/pfSense-003355?style=for-the-badge&logo=pfsense&logoColor=white) 
     - ![VPN](https://img.shields.io/badge/VPN-1A73E8?style=for-the-badge&logo=vpn&logoColor=white)
-    - VLAN, OSPF, DHCP, DNS, AD DS, VPN
+
 
 - **Systèmes d'exploitation :**
     - ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white) 
