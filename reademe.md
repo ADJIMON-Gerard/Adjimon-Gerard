@@ -51,7 +51,7 @@
 2. [🌐 Site Web WordPress](https://github.com/tonnom/site-wordpress) 
    - Développement d'un site web WordPress pour une entreprise locale. 
 
----
+💬 Let's Connect:
 <p align="left"> <a href="https://www.linkedin.com/in/tonnom" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/tonnom" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:tonemail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://tonportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/> </a> </p>
 
 ---
