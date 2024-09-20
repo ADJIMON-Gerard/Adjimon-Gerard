@@ -52,5 +52,8 @@
    - Développement d'un site web WordPress pour une entreprise locale. 
 
 ---
+<p align="left"> <a href="https://www.linkedin.com/in/tonnom" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/tonnom" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:tonemail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://tonportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/> </a> </p>
+
+---
 
 ⭐️ Si tu aimes mon travail, n'hésite pas à me suivre et à donner une étoile à mes projets !
