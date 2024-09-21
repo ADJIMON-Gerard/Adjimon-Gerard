@@ -43,12 +43,16 @@
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=tonnom&show_icons=true&theme=radical) 
 
-### ⚡ Projets récents :
+### ⚡Mes Projets:
 
-1. [📡 CCNA 200-301 LABs](https://github.com/tonnom/projet-reseau-hotel) 
-   - configurations des Labs pratique pour CCNA 200-301 Switching and Routing 
+1. [📡 CCNA 200-301 LABs](https://github.com/ADJIMON-Gerard/Projet) 
+   - configurations des Labs pratique pour CCNA 200-301 Switching and Routing
+  
+    [📡 Projets Personnelle](https://github.com/ADJIMON-Gerard/Projet)
+
+    - mes projets personnelle sur lequel je Travaile 
    
-2. [🌐 Site Web WordPress](https://github.com/tonnom/site-wordpress) 
+3. [🌐 Site Web WordPress](https://github.com/tonnom/site-wordpress) 
    - Développement d'un site web WordPress pour une entreprise locale. 
 
 💬 Let's Connect:
