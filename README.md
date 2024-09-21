@@ -45,8 +45,8 @@
 
 ### ⚡ Projets récents :
 
-1. [📡 Réseau Hôtelier](https://github.com/tonnom/projet-reseau-hotel) 
-   - Conception d'une topologie réseau hiérarchique avec VLAN, OSPF, DHCP et WLAN. 
+1. [📡 CCNA 200-301 LABs](https://github.com/tonnom/projet-reseau-hotel) 
+   - configurations des Labs pratique pour CCNA 200-301 Switching and Routing 
    
 2. [🌐 Site Web WordPress](https://github.com/tonnom/site-wordpress) 
    - Développement d'un site web WordPress pour une entreprise locale. 
