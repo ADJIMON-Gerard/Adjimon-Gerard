@@ -10,8 +10,8 @@
 
 ### 🌍 Mes liens :
 - 💼 [LinkedIn](www.linkedin.com/in/gerard-adjimon-4374872a4)  
-- 🌐 [Site Web](dev-adj-ger.pantheonsite.io) 
-- 📫 [Email](adjgerard1@gmail.com) 
+- 🌐 [Site Web](https://dev-gadj.pantheonsite.io/)
+- 📫 [Email](https://adjgerard1@gmail.com) 
 
 ### 🔥 Compétences Techniques :
 - **Langages de Programmation :** 
@@ -52,7 +52,9 @@
    - Développement d'un site web WordPress pour une entreprise locale. 
 
 💬 Let's Connect:
-<p align="left"> <a href="https://www.linkedin.com/in/tonnom" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/tonnom" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="mailto:tonemail@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://tonportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gerard-adjimon-4374872a4" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+    <a href="https://twitter.com/tonnom" target="_blank"> <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://adjgerard1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> 
+    <a href="https://dev-gadj.pantheonsite.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/> </a> </p>
 
 ---
 
