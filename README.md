@@ -53,7 +53,7 @@
 1. [Projet 1: Reseau Hôtelier](https://github.com/ADJIMON-Gerard/Entreprise-Network-projet-1)
    -  Conception et Mise en œuvre d'un Réseau Hôtelier
    
-3. [🌐 Site Web WordPress](https://github.com/tonnom/site-wordpress)
+3. [🌐 Site Web WordPress](https://dev-synetcom-info.pantheonsite.io)
    - Développement d'un site web WordPress pour une entreprise locale. 
 
 💬 Let's Connect:
